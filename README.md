@@ -59,6 +59,9 @@ To test the functionality of the README Generator, follow these steps:
  5. Once you have answered all the questions, the application will generate a README.md file based on your input.
  6. Verify that the generated README.md file contains the correct information and formatting.
 
+ ## Screenshot 
+ ![Screen Shot 2023-08-03 at 3 09 57 PM](https://github.com/angiecruz02/Weather-Dashboard/assets/33271291/0612dc7f-4abe-4634-9053-7d8f24495876)
+
 
 ## Questions
 
